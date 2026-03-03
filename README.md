@@ -186,10 +186,4 @@ Sustained performance will depend on:
 * Aircraft-right sizing
 * Strategic pruning of structurally unprofitable routes
 
----
 
-If you’d like, I can now convert this into:
-
-* A **5–10 minute executive presentation script**
-* A **Board-ready summary slide**
-* Or a **formal strategic recommendation report**
